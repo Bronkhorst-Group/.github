@@ -1,4 +1,4 @@
-## Theoretical and Computational Mechanics of Materials Group (Code Repositories)
+## Theoretical and Computational Mechanics of Materials Group at UW Madison (Code Repositories)
 
 <!--
 
